@@ -1,1 +1,2 @@
-# hellow-world
+# hello-world
+# GitHub practise project
